@@ -1,0 +1,26 @@
+label {
+  margin: 0 0 20px 0;
+}
+
+form {
+  margin: 0 auto;
+  width: 100px;
+}
+
+input {
+  border: 1px solid #ccc;
+  width: 100%;
+  padding: 4px;
+  outline: none;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.wrapper__checkbox {
+  display: flex;
+  justify-content: center;
+}
+
+.input__text:hover {
+  border-bottom: 2px solid rgb(223, 154, 208);
+}
